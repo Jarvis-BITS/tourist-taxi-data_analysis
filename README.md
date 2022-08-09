@@ -5,4 +5,5 @@ It is reccommended to use a virtual environment to run the code to avoid future 
 
 Use `pip install -r requirements.txt` to install all dependencies 
 
+Note: The dataset for this project is included as lab-task.rar
 
